@@ -21,6 +21,9 @@ For this project, we are asked to make a single word prediction, which I have de
 ## Text Prediction Application
 ![Screenshot](TextPredictiveAlgorithm.png)
 
+## Slide Deck
+Please find the slide deck for this application in <a herf =""> here</a>. 
+
 
 ## Resources
 [1] “Data Science.” Coursera, John Hopkins University, www.coursera.org/specializations/jhu-data-science.  
