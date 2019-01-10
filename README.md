@@ -23,6 +23,6 @@ For this project, we are asked to make a single word prediction, which I have de
 
 
 ## Resources
-[1] “Data Science.” Coursera, John Hopkins University, www.coursera.org/specializations/jhu-data-science.
-[2] Robin. “Natural Language Processing.” Markov Models, 2009, language.worldofcomputing. net/pos-tagging/markov-models.html.
+[1] “Data Science.” Coursera, John Hopkins University, www.coursera.org/specializations/jhu-data-science.  
+[2] Robin. “Natural Language Processing.” Markov Models, 2009, language.worldofcomputing. net/pos-tagging/markov-models.html.  
 [3] Brooks-Bartlett, Jonny. “Probability Concepts Explained: Maximum Likelihood Estimation.” Probability Concepts Explained: Maximum Likelihood Estimation, Towards Data Science, 3 Jan. 2018, towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation- c7b4342fdbb1.
