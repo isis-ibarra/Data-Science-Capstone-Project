@@ -22,7 +22,7 @@ For this project, we are asked to make a single word prediction, which I have de
 ![Screenshot](TextPredictiveAlgorithm.png)
 
 ## Slide Deck
-Please find the slide deck for this application in <a herf ="http://rpubs.com/isisibarra/textPredictiveApp"> here</a>. 
+Please find the slide deck for this application in http://rpubs.com/isisibarra/textPredictiveApp. 
 
 
 ## Resources
