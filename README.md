@@ -1,6 +1,6 @@
 # Data Science Capstone Project
 
-Data Science Coursera Specialization is offered by Johns Hopkins University. This specialization covers the concepts and tools that will be need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results [4].
+Data Science Coursera Specialization is offered by Johns Hopkins University. This specialization covers the concepts and tools that will be need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results [1].
 
 As part of the final Capstone Project, a data product will be developed using real-world data. In this case the goal is the development of a text prediction algorithm in collaboration with SwiftKey.
 
